@@ -1,0 +1,13 @@
+=> 
+[[32m#<Micropost:0x00007646788e9a88[0m
+  id: [34m[1m1[0m,
+  content: [31m[1m"[0m[31mFirst microposts![0m[31m[1m"[0m,
+  user_id: [34m[1m1[0m,
+  created_at: Fri, 04 Oct 2024 05:21:18.700271000 UTC +00:00,
+  updated_at: Fri, 04 Oct 2024 05:21:18.700271000 UTC +00:00[32m>[0m,
+ [32m#<Micropost:0x0000764676082c20[0m
+  id: [34m[1m2[0m,
+  content: [31m[1m"[0m[31msecond microposts![0m[31m[1m"[0m,
+  user_id: [34m[1m1[0m,
+  created_at: Fri, 04 Oct 2024 05:23:29.167606000 UTC +00:00,
+  updated_at: Fri, 04 Oct 2024 05:23:29.167606000 UTC +00:00[32m>[0m]
